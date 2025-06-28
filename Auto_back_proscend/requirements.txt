@@ -1,0 +1,13 @@
+# Python dependencies
+selenium>=4.10.0
+python-dotenv>=1.0.0
+
+# NOTE:
+# ChromeDriver must be installed separately.
+# Download from: https://sites.google.com/chromium.org/driver/
+# Make sure it matches your installed Chrome version.
+# Then place chromedriver in your PATH or the same directory as the script.
+
+
+#Command to install required Libraries
+#pip install -r requirements.txt
