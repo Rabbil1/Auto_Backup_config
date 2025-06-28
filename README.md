@@ -20,5 +20,5 @@ This Python script automates the login and configuration backup process for **Pr
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/proscend-auto-backup.git
+git clone https://github.com/Rabbil1/proscend-auto-backup.git
 cd proscend-auto-backup
